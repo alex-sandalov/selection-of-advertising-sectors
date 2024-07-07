@@ -1,3 +1,9 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:hackathon5-7/frontend.git
+[submodule "internal-backend-ml"]
+	path = internal-backend-ml
+	url = git@github.com:hackathon5-7/internal-backend-ml.git
+[submodule "external-backend"]
+	path = external-backend
+	url = git@github.com:hackathon5-7/external-backend.git
